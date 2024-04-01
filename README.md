@@ -27,9 +27,22 @@ Step1 : Build VM using Google compute engine
 
 Step2 : Install Docker on Ubantu 20.04 https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04
 
+![image](https://github.com/nechayut/hadoop_miniproject/assets/101554284/c89a9745-42f3-462d-ac6f-34987d075776)
+
+
 Step3 : Pull docker image (mikelemikelo/cloudera-spark)
+
+![image](https://github.com/nechayut/hadoop_miniproject/assets/101554284/df973abc-91f0-47dc-af65-1db9a91b2552)
+
+![image](https://github.com/nechayut/hadoop_miniproject/assets/101554284/6a78c549-04b5-4da8-8f31-09a6a7941870)
+
 
 Step4 : docker run --hostname=quickstart.cloudera --privileged=true -ti -p 8180:8080 -p 19888:19888 -p 7077:7077 -p 8188:8088 -p 8032:8032 -p 8020:8020 -p 50010:50010 -p 8042:8042 -p 7180:7180 -p 88:88/udp -p 88:88 mikelemikelo/cloudera-spark:latest /usr/bin/docker-quickstart-light
 
+![image](https://github.com/nechayut/hadoop_miniproject/assets/101554284/4f0d0554-a9ee-4d04-941d-9176adcb10c6)
+
+
 Step5 : Start using cloudera manager by open http://ExternalIP:7180/
+
+![image](https://github.com/nechayut/hadoop_miniproject/assets/101554284/f4ef1dd5-f216-40d9-9bc1-f7fa426f1739)
 
