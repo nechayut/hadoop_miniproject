@@ -16,6 +16,13 @@ Step1 : Build VM using Google compute engine
 
 ![image](https://github.com/nechayut/hadoop_miniproject/assets/101554284/15d48031-0ff2-401e-9a64-3e692caf3526)
 
+![image](https://github.com/nechayut/hadoop_miniproject/assets/101554284/b61400f1-ede7-4dfa-a1bb-afa84b263475)
+
+![image](https://github.com/nechayut/hadoop_miniproject/assets/101554284/0df1a225-b05b-4f16-b665-c1c3703c6b80)
+
+![image](https://github.com/nechayut/hadoop_miniproject/assets/101554284/0223b334-d555-4d8d-a56f-b3fed7407cac)
+
+![image](https://github.com/nechayut/hadoop_miniproject/assets/101554284/8af27a85-4f43-4182-81a2-4b3480b3d44b)
 
 
 Step2 : Install Docker on Ubantu 20.04 https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04
