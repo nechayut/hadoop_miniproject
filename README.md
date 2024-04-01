@@ -1,1 +1,1 @@
-# hadoop_miniproject
+# Cloudera Hadoop via Docker container
